@@ -14,6 +14,8 @@
 
 - 🤔 Curious? Read about my career journey thus far on my [LinkedIn profile](https://linkedin.com/in/eneki).
 
+- I'm a huge advocate of TDD and I am learning how to write comprehensive unit and feature tests.
+
 <h3><g-emoji class="g-emoji" alias="hammer_and_pick" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2692.png">⚒</g-emoji> My Development Arsenal</h3>
 <span>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
