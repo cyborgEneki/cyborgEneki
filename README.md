@@ -43,5 +43,5 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="GraphQL" height="40" style="vertical-align:top; margin:4px"> 
 </span>
 
-<h3>⚡ Fun fact</h3>
+<h3>⚡ Fun fact about me</h3>
 When I am not coding I am most likely either trying to bend my body into a pretzel (yoga), playing Minesweeper on my phone, or playing Scrabble with anyone in the mood to be defeated.
