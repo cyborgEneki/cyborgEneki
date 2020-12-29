@@ -45,3 +45,5 @@
 
 <h3>⚡ Fun fact</h3>
 When I am not coding I am most likely either trying to bend my body into a pretzel (yoga), playing Minesweeper on my phone, or playing Scrabble with anyone in the mood to be defeated.
+
+<iframe width="400" height="400" src="https://ionicabizau.github.io/github-profile-languages/api.html?cyborgEneki" frameborder="0"></iframe>
