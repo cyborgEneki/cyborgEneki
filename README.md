@@ -10,7 +10,7 @@
 - 😄 Pronouns: ...
 -->
 
-- :bowtie: I’m currently working as a full stack software engineer at [Cytonn Investments](https://cytonn.com/).
+- :bowtie: I’m currently working as a full stack software engineer.
 
 - 🤔 Curious? Read about my career journey thus far on my [LinkedIn profile](https://linkedin.com/in/eneki).
 
