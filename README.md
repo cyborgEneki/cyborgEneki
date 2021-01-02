@@ -44,4 +44,7 @@
 </span>
 
 <h3>⚡ Fun Fact About Me</h3>
-When I am not coding I am most likely either trying to bend my body into a pretzel (yoga), playing Minesweeper on my phone, or playing Scrabble with anyone in the mood to be defeated.
+When I am not coding I am most likely either:
+- Trying to bend my body into a pretzel (yoga)
+- Playing Minesweeper on my phone, or 
+- Playing Scrabble with anyone in the mood to be defeated
