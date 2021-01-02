@@ -14,7 +14,7 @@
 
 - 🤔 Curious? Read about my career journey thus far on my [LinkedIn profile](https://linkedin.com/in/eneki).
 
-- I'm a huge advocate of TDD and I am learning how to write comprehensive unit and feature tests.
+- I'm a huge advocate of TDD and I am learning how to write comprehensive unit, feature, and E2E tests.
 
 <h3><g-emoji class="g-emoji" alias="hammer_and_pick" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2692.png">⚒</g-emoji> My Development Arsenal</h3>
 <span>
