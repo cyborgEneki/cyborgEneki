@@ -41,6 +41,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript" height="40" style="vertical-align:top; margin:4px"> 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="TypeScript" height="40" style="vertical-align:top; margin:4px"> 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="GraphQL" height="40" style="vertical-align:top; margin:4px"> 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="GraphQL" height="40" style="vertical-align:top; margin:4px"> 
 </span>
 
 <h3>⚡ Fun Fact About Me</h3>
