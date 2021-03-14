@@ -10,7 +10,7 @@
 - 😄 Pronouns: ...
 -->
 
-- :bowtie: I’m a full stack software engineer.
+- :bowtie: I’m a software engineer.
 
 - 🤔 Curious? Read about my career journey thus far on my [LinkedIn profile](https://linkedin.com/in/eneki).
 
