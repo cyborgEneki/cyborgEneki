@@ -7,14 +7,16 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+
 -->
 
-- :bowtie: I’m a software engineer.
+- :bowtie: I’m a software engineer and data science nerd.
 
-- 🤔 Curious? Read about my career journey thus far on my [LinkedIn profile](https://linkedin.com/in/eneki).
+- 😄 Pronouns: she/her.
+  
+- My favorite kind of work happens at the intersection of computer science, computational statistics, and psychology.
 
-- I'm a huge advocate of TDD and I am learning how to write comprehensive unit, feature, and E2E tests.
+- I'm a huge advocate of TDD.
 
 <h3><g-emoji class="g-emoji" alias="hammer_and_pick" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2692.png">⚒</g-emoji> My Development Arsenal</h3>
 <span>
