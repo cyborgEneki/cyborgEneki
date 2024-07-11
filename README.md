@@ -57,7 +57,29 @@
   </tbody>
 </table>
 
-### Environments/Other
+### Data Manipulation Tools/Libraries
+<table>
+  <thead>
+  <tr>
+    <th>MySQL</th>
+    <th>Pandas</th>
+    <th>NumPy</th>
+    <th>Matplotlib</th>
+    <th>scikit-learn</th>
+  </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" width="100"><img src="https://icon.icepanel.io/Technology/svg/MySQL.svg" alt="mysql" height="40"></td>
+      <td align="center" width="100"><img src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png" alt="Pandas" height="40"></td>
+      <td align="center" width="100"><img src="https://icon.icepanel.io/Technology/svg/NumPy.svg" alt="numpy" height="40"></td>
+      <td align="center" width="100"><img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" alt="Matplotlib" height="40"></td>
+      <td align="center" width="150"><img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" alt="scikit-learn" height="40"></td>
+    </tr>
+  </tbody>
+</table>
+
+### Environments
 <table>
   <thead>
   <tr>
@@ -65,7 +87,6 @@
     <th>Docker</th>
     <th>VirtualBox</th>
     <th>Vagrant</th>
-    <th>MySQL</th>
   </tr>
   </thead>
   <tbody>
@@ -74,7 +95,6 @@
       <td align="center" width="100"><img src="https://icon.icepanel.io/Technology/svg/Docker.svg" alt="Docker" height="40"></td>
       <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="VirtualBox" height="40"></td>
       <td align="center" width="100"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vagrant/vagrant.png" alt="Vagrant" height="40"></td>
-      <td align="center" width="100"><img src="https://icon.icepanel.io/Technology/svg/MySQL.svg" alt="mysql" height="40"></td>
     </tr>
   </tbody>
 </table>
