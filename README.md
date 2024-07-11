@@ -1,4 +1,4 @@
-### Hey 👋 I'm Eneki
+## Hey 👋 I'm Eneki
 
 <!--
 **cyborgEneki/cyborgEneki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -81,7 +81,7 @@
   </tbody>
 </table>
 
-<h3>⚡ Fun Fact About Me</h3>
+## ⚡ Fun Facts About Me
 When I am not coding I am most likely either:
 
 - Trying to bend my body into a pretzel (yoga)
