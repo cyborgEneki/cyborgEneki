@@ -39,7 +39,7 @@
   </tbody>
 </table>
 
-### Frameworks/Libraries
+### Frameworks
 <table>
   <thead>
   <tr>
