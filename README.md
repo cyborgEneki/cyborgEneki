@@ -32,7 +32,7 @@
   <tbody>
     <tr>
       <td align="center" width="100"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="Javascript" height="40"></td>
-      <td align="center" width="100"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C-Sharp" height="60"></td>
+      <td align="center" width="100"><img src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" alt="C-Sharp" height="60"></td>
       <td align="center" width="100"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP" height="40"></td>
       <td align="center" width="100"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40"></td>
     </tr>
@@ -74,7 +74,7 @@
     <tr>
       <td align="center" width="100"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png?20170401104355" alt="Node.js" height="40"></td>
       <td align="center" width="100"><img src="https://icon.icepanel.io/Technology/svg/Docker.svg" alt="Docker" height="40"></td>
-      <td align="center" width="100"><img src="https://w7.pngwing.com/pngs/997/157/png-transparent-virtualbox-computer-icons-virtual-machine-operating-systems-virtualization-boxing-logo-sports-linux-thumbnail.png" alt="VirtualBox" height="40"></td>
+      <td align="center" width="100"><img src="https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg" alt="VirtualBox" height="40"></td>
       <td align="center" width="100"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vagrant/vagrant.png" alt="Vagrant" height="40"></td>
       <td align="center" width="100"><img src="https://icon.icepanel.io/Technology/svg/MySQL.svg" alt="mysql" height="40"></td>
     </tr>
