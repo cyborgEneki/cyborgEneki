@@ -12,8 +12,6 @@
 -->
 
 - :bowtie: I’m a software engineer and data science nerd.
-
-- Pronouns: she/her.
   
 - My favorite kind of work happens at the intersection of computer science, computational statistics, and psychology.
 
