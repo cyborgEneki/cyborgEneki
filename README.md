@@ -104,6 +104,8 @@ When I am not coding I am most likely either:
 
 - Trying to bend my body into a pretzel (yoga)
 
+- Reading detective fiction
+
 - Playing Minesweeper on my phone, or 
 
 - Dominating at Scrabble
