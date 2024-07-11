@@ -18,26 +18,30 @@
 
 <h3><g-emoji class="g-emoji" alias="hammer_and_pick" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2692.png">⚒</g-emoji> My Development Arsenal</h3>
 <table style="margin: 0 auto;">
+  <thead>
   <tr>
-    <td style="text-align: center;">Javascript</td>
-    <td style="text-align: center;">Vue.js</td>
-    <td style="text-align: center;">React JS</td>
-    <td style="text-align: center;">C-Sharp</td>
-    <td style="text-align: center;">PHP</td>
-    <td style="text-align: center;">Laravel</td>
-    <td style="text-align: center;">mysql</td>
-    <td style="text-align: center;">Vagrant</td>
+    <th style="text-align: center;">JavaScript</th>
+    <th style="text-align: center;">Vue.js</th>
+    <th style="text-align: center;">React JS</th>
+    <th style="text-align: center;">C-Sharp</th>
+    <th style="text-align: center;">PHP</th>
+    <th style="text-align: center;">Laravel</th>
+    <th style="text-align: center;">mysql</th>
+    <th style="text-align: center;">Vagrant</th>
   </tr>
-  <tr>
-    <td style="text-align: center;"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px"></td>
-    <td style="text-align: center;"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue.js" height="40" style="vertical-align:top; margin:4px"></td>
-    <td style="text-align: center;"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React JS" height="40" style="vertical-align:top; margin:4px"></td>
-    <td style="text-align: center;"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C-Sharp" height="40" style="vertical-align:top; margin:4px"></td>
-    <td style="text-align: center;"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP" height="40" style="vertical-align:top; margin:4px"></td>
-    <td style="text-align: center;"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="Laravel" height="40" style="vertical-align:top; margin:4px"></td>
-    <td style="text-align: center;"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" height="40" style="vertical-align:top; margin:4px"></td>
-    <td style="text-align: center;"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vagrant/vagrant.png" alt="Vagrant" height="40" style="vertical-align:top; margin:4px"></td>
-  </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="Javascript" height="40" style="display: block; margin-left: auto; margin-right: auto"></td>
+      <td style="text-align: center;"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue.js" height="40" style="vertical-align:top; margin:4px"></td>
+      <td style="text-align: center;"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React JS" height="40" style="vertical-align:top; margin:4px"></td>
+      <td style="text-align: center;"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C-Sharp" height="60" style="vertical-align:top; margin:4px"></td>
+      <td style="text-align: center;"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP" height="40" style="vertical-align:top; margin:4px"></td>
+      <td style="text-align: center;"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="Laravel" height="40" style="vertical-align:top; margin:4px"></td>
+      <td style="text-align: center;"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" height="40" style="vertical-align:top; margin:4px"></td>
+      <td style="text-align: center;"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vagrant/vagrant.png" alt="Vagrant" height="40" style="vertical-align:top; margin:4px"></td>
+    </tr>
+  </tbody>
 </table>
 
 <h3>🌱 Currently Learning </h3>
