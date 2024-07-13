@@ -13,7 +13,7 @@
 
 - :bowtie: I’m a software engineer and data science nerd.
   
-- My favorite kind of work happens at the intersection of computer science, computational statistics, and psychology.
+- My favorite kind of work happens at the intersection of computer science, computational statistics, and the behavioral sciences.
 
 <h2><g-emoji class="g-emoji" alias="hammer_and_pick" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2692.png">⚒</g-emoji> My Development Arsenal</h2>
 
