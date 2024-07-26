@@ -25,6 +25,7 @@
     <th>C-Sharp</th>
     <th>PHP</th>
     <th>Python</th>
+    <th>TypeScript</th>
   </tr>
   </thead>
   <tbody>
@@ -33,6 +34,7 @@
       <td align="center" width="100"><img src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" alt="C-Sharp" height="60"></td>
       <td align="center" width="100"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP" height="40"></td>
       <td align="center" width="100"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40"></td>
+      <td align="center" width="100"><img src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" alt="TypeScript" height="40"></td>
     </tr>
   </tbody>
 </table>
